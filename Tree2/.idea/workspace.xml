@@ -15,8 +15,8 @@
       <file leaf-file-name="SearchLowComAncestor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SearchLowComAncestor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="-340">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -24,8 +24,8 @@
       <file leaf-file-name="TreeToString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeToString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="348">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -33,57 +33,38 @@
       <file leaf-file-name="TreeToLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeToLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-320">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="289">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsFullTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IsFullTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TraversalTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TraversalTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TraversalTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="281">
+              <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReservalLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pp/ReservalLinkedList.java">
+      <file leaf-file-name="TraversalLevelOrder2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TraversalLevelOrder2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pp/Node2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pp/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p/TestExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="-221">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -92,7 +73,25 @@
         <entry file="file://$PROJECT_DIR$/src/SearchNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1462">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NodeLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NodeLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -100,8 +99,8 @@
       <file leaf-file-name="TraversalLevelOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TraversalLevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="612">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -136,12 +135,12 @@
         <option value="$PROJECT_DIR$/src/Node.java" />
         <option value="$PROJECT_DIR$/src/NodeLinkedList.java" />
         <option value="$PROJECT_DIR$/src/TraversalLevelOrder.java" />
-        <option value="$PROJECT_DIR$/src/IsFullTree.java" />
         <option value="$PROJECT_DIR$/src/SearchLowComAncestor.java" />
         <option value="$PROJECT_DIR$/src/TraversalLevelOrder2.java" />
-        <option value="$PROJECT_DIR$/src/TreeToString.java" />
-        <option value="$PROJECT_DIR$/src/TreeToLinkedList.java" />
         <option value="$PROJECT_DIR$/src/TraversalTree.java" />
+        <option value="$PROJECT_DIR$/src/IsFullTree.java" />
+        <option value="$PROJECT_DIR$/src/TreeToLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/TreeToString.java" />
       </list>
     </option>
   </component>
@@ -151,11 +150,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="15" />
-    <option name="y" value="27" />
-    <option name="width" value="606" />
-    <option name="height" value="595" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="34" />
+    <option name="y" value="50" />
+    <option name="width" value="669" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -190,12 +189,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Tree2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CreateTree1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -205,7 +198,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/classCode/2019-04-13-二叉树" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -222,9 +215,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TraversalTree">
-    <configuration name="SearchLowComAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchLowComAncestor" />
+  <component name="RunManager" selected="Application.TreeToString">
+    <configuration name="IsFullTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsFullTree" />
       <module name="Tree2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -290,19 +283,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SearchLowComAncestor" />
       <item itemvalue="Application.TraversalLevelOrder2" />
       <item itemvalue="Application.TreeToString" />
       <item itemvalue="Application.TreeToLinkedList" />
       <item itemvalue="Application.TraversalTree" />
+      <item itemvalue="Application.IsFullTree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TraversalTree" />
-        <item itemvalue="Application.TreeToLinkedList" />
         <item itemvalue="Application.TreeToString" />
+        <item itemvalue="Application.TreeToLinkedList" />
+        <item itemvalue="Application.IsFullTree" />
+        <item itemvalue="Application.TraversalTree" />
         <item itemvalue="Application.TraversalLevelOrder2" />
-        <item itemvalue="Application.SearchLowComAncestor" />
       </list>
     </recent_temporary>
   </component>
@@ -319,31 +312,32 @@
       <workItem from="1555584710413" duration="43000" />
       <workItem from="1555722428940" duration="24740000" />
       <workItem from="1555851778091" duration="628000" />
-      <workItem from="1555926680745" duration="12225000" />
+      <workItem from="1555926680745" duration="21829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37636000" />
+    <option name="totallyTimeSpent" value="47240000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32692307" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.21405229" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.28146854" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12708019" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05824508" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -403,10 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="79" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,44 +555,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pp.java" />
-    <entry file="file://$PROJECT_DIR$/src/TraversalLevelOrder2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NodeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsFullTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CreateTree1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pp/ReservalLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1904">
@@ -617,6 +569,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/p/TestExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pp/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -624,56 +583,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p/TestExample.java">
+    <entry file="file://$PROJECT_DIR$/src/CreateTree1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="17">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeToString.java">
+    <entry file="file://$PROJECT_DIR$/src/IsFullTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="740">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TraversalLevelOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NodeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchLowComAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchLowComAncestor.java">
+    <entry file="file://$PROJECT_DIR$/src/TreeToString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="348">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeToLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TraversalTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="281">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TraversalLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TraversalLevelOrder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>

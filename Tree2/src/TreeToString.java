@@ -12,13 +12,14 @@ public class TreeToString {
 
             sb.append('(');
             sb.append(root.value);
-            if(root.left==null&&root.right!=null){
+            if(root.left==null&&root.right!=null) {
 
                 sb.append("()");
+
             }else{
 
                 preOrderTreeToStr(root.left,sb);
-            }
+           }
             preOrderTreeToStr(root.right,sb);
             sb.append(')');
 

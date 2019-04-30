@@ -55,6 +55,37 @@ public class TraversalTree {
   //非递归后序遍历二叉树
   public static  void postOrderNode(Node root){
 
+    Stack<Node> stack=new Stack<>();
+    Node cur=root;
+    Node last=null;
+    while(!stack.isEmpty()||cur!=null){
+      while (cur!=null){
+        stack.push(cur);
+        cur=cur.left;
+
+      }
+      Node top=stack.peek();
+      //栈顶元素先不出栈，先把该结点的右子树的左结点优先入栈
+
+        if (top.right == null) {
+
+          Node result = stack.pop();
+          System.out.print(result.value);
+          last = top;
+        } else if (top.right == last) {
+
+          System.out.print(top.value);
+          stack.pop();
+          last = top;
+        } else {
+
+          cur = top.right;
+        }
+
+
+
+    }
+
 
   }
   public static void main(String[] args) {
@@ -74,5 +105,7 @@ public class TraversalTree {
     preOrderNode(root);
     System.out.println();
     inOrderNode(root);
+    System.out.println();
+    postOrderNode(root);
   }
 }

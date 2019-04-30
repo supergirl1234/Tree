@@ -15,27 +15,33 @@ public class IsFullTree {
 
     public static boolean isComplete(Node root){
 
+        if(root==null){
+            return  true;
+
+        }
         //先层序遍历
         Queue<Node> queue=new LinkedList<>();
          queue.add(root);
 
-         while(!queue.isEmpty()){
+         while(true){
              Node node=queue.poll();
 
+             if(node==null){
+                 //遇到空了，下一步去判断队列中剩余的结点，是否是全是空
+                 break;
+             }
              queue.add(node.left);
              queue.add(node.right);
-
-
-
-
          }
 
+         //判断是否所有的结点都是非空
+        while(!queue.isEmpty()){
+             Node node=queue.poll();
+             if(node!=null){
+                return false;
+             }
 
-
-
-
-
-
+        }
 
         return true;
 

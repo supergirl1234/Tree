@@ -11,16 +11,45 @@ import java.util.Stack;
 public class TreeToLinkedList {
 
 
-    public static NodeLinkedList treeToNode(Node root) {
-return null;
+
+    public static Node searchTreeToSortedList(Node root){
+
+         prev=null;
+         head=null;
+        inOrderTraversalSearchTree(root);
+        return head;
+    }
+
+    public static void inOrderTraversalSearchTree(Node root) {
+        if(root!=null){
+            inOrderTraversalSearchTree(root.left);
+            buildDlist(root);
+            inOrderTraversalSearchTree(root.right);
+
+        }
+    }
+
+    public static Node prev=null;
+    public static Node head=null;
+    private static void buildDlist(Node node) {
+
+        node.left=prev;
+        if(prev!=null){
+            prev.right=node;
+
+        }else{
+            head=node;
+        }
+        prev=node;
     }
 
     //打印链表
 
-    public static void disply(NodeLinkedList head){
-        NodeLinkedList cur=head;
+    public static void disply(Node head){
+        Node cur=head;
         while (cur!=null){
-            System.out.println(cur.vaule+" ");
+            System.out.print(cur.value+" ");
+            cur=cur.right;
         }
 
     }
@@ -44,7 +73,7 @@ return null;
         D.left = F;
         D.right = G;
 
-        NodeLinkedList node=treeToNode(root);
+        Node node=searchTreeToSortedList(root);
         disply(node);
 
     }
